@@ -1,16 +1,92 @@
-## Hi there 👋
+# Hey, I'm L4nk0n3 👾
 
-<!--
-**lank-one/lank-one** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "Break things to understand them. Understand them to break them better."
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About me
+
+Passionate about **offensive security** and **artificial intelligence** — two fields 
+that are increasingly intertwined.
+
+I document everything I learn: techniques, tools, labs, and the reasoning behind each attack.
+
+---
+
+## 🎯 Current focus
+
+- 🔴 **Offensive Security** — Preparing for BSCP (Burp Suite Certified Practitioner)
+- 🤖 **AI & Security** — Exploring how AI is reshaping offensive and defensive security
+- 📖 **Learning in public** — Every lab solved becomes a writeup
+
+---
+
+## 🛠️ Tech stack
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=data:image...)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 📚 What I'm studying
+
+`SQLi` · `XSS` · `CSRF` · `Authentication` · `JWT` · `OAuth`  
+`SSRF` · `XXE` · `SSTI` · `Broken Access Control`
+
+---
+
+## 📂 Featured repos
+
+| Repo | Description |
+|------|-------------|
+| 🔗 `bscp-notes` | Writeups & methodology from PortSwigger labs |
+| 🔗 `ai-security-lab` | Exploring AI applied to offensive security |
+
+---
+
+## 📬 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanmartinalonso/)
+[![GitBook](https://img.shields.io/badge/GitBook-3884FF?style=flat&logo=gitbook&logoColor=white)](https://l4nk0n3.gitbook.io/whoami-l4nk0n3)
+
+---
+
+---
+
+# Hola, soy L4nk0n3 👾
+
+> "Rompe las cosas para entenderlas. Entiéndelas para romperlas mejor."
+
+---
+
+## 🧠 Sobre mí
+
+Apasionado por la **seguridad ofensiva** y la **inteligencia artificial** — dos campos
+que cada vez están más entrelazados.
+
+Documento todo lo que aprendo: técnicas, herramientas, labs y el razonamiento
+detrás de cada ataque.
+
+---
+
+## 🎯 Enfoque actual
+
+- 🔴 **Seguridad Ofensiva** — Preparando el BSCP (Burp Suite Certified Practitioner)
+- 🤖 **IA & Seguridad** — Explorando cómo la IA está transformando la seguridad ofensiva y defensiva
+- 📖 **Aprendiendo en público** — Cada lab resuelto se convierte en un writeup
+
+---
+
+## 📚 Qué estoy estudiando
+
+`SQLi` · `XSS` · `CSRF` · `Autenticación` · `JWT` · `OAuth`  
+`SSRF` · `XXE` · `SSTI` · `Broken Access Control`
+
+---
+
+## 📬 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanmartinalonso/)
+[![GitBook](https://img.shields.io/badge/GitBook-3884FF?style=flat&logo=gitbook&logoColor=white)](https://l4nk0n3.gitbook.io/whoami-l4nk0n3)
