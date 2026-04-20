@@ -52,9 +52,6 @@ I document everything I learn: techniques, tools, labs, and the reasoning behind
 
 # Hola, soy L4nk0n3 👾
 
-> "Rompe las cosas para entenderlas. Entiéndelas para romperlas mejor."
-
----
 
 ## 🧠 Sobre mí
 
@@ -69,8 +66,8 @@ detrás de cada ataque.
 ## 🎯 Enfoque actual
 
 - 🔴 **Seguridad Ofensiva** — Preparando el BSCP (Burp Suite Certified Practitioner)
-- 🤖 **IA & Seguridad** — Explorando cómo la IA está transformando la seguridad ofensiva y defensiva
-- 📖 **Aprendiendo en público** — Cada lab resuelto se convierte en un writeup
+- 🤖 **IA & Seguridad** — Explorando cómo la IA está transformando la ciberseguridad
+- 📖 **Documentando mi progreso** — Cada lab resuelto se convierte en un writeup
 
 ---
 
