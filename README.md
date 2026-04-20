@@ -1,6 +1,4 @@
-# Hey, I'm L4nk0n3 🥷🏻
-
----
+# I'm L4nk0n3 🥷🏻
 
 ## 🧠 About me
 
@@ -14,8 +12,8 @@ I document everything I learn: techniques, tools, labs, and the reasoning behind
 ## 🎯 Current focus
 
 - 🔴 **Offensive Security** — Preparing for BSCP (Burp Suite Certified Practitioner)
-- 🤖 **AI & Security** — Exploring how AI is reshaping offensive and defensive security
-- 📖 **Learning in public** — Every lab solved becomes a writeup
+- 🤖 **AI & Security** — Exploring how AI is reshaping the cyber security field
+- 📖 **Documenting my progress** — Every lab solved becomes a writeup
 
 ---
 
