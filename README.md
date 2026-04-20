@@ -41,8 +41,7 @@ I document everything I learn: techniques, tools, labs, and the reasoning behind
 
 | Repo | Description |
 |------|-------------|
-| 🔗 `bscp-notes` | Writeups & methodology from PortSwigger labs |
-| 🔗 `ai-security-lab` | Exploring AI applied to offensive security |
+| 🔗 `burpreport-ai` | AI-powered security report generator from Burp Suite exports |
 
 ---
 
