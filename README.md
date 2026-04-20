@@ -1,6 +1,4 @@
-# Hey, I'm L4nk0n3 👾
-
-> "Break things to understand them. Understand them to break them better."
+# Hey, I'm L4nk0n3 🥷🏻
 
 ---
 
