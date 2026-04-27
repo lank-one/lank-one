@@ -11,7 +11,7 @@ I document everything I learn: techniques, tools, labs, and the reasoning behind
 
 ## 🎯 Current focus
 
-- 🔴 **Offensive Security** — Preparing for BSCP (Burp Suite Certified Practitioner)
+- 🔴 **Offensive Security** — Focusing on mobile hacking to pursue a career change at my current company
 - 🤖 **AI & Security** — Exploring how AI is reshaping the cyber security field
 - 📖 **Documenting my progress** — Every lab solved becomes a writeup
 
@@ -65,7 +65,7 @@ detrás de cada ataque.
 
 ## 🎯 Enfoque actual
 
-- 🔴 **Seguridad Ofensiva** — Preparando el BSCP (Burp Suite Certified Practitioner)
+- 🔴 **Seguridad Ofensiva** — Centrándome en hacking móvil para aspirar a un cambio en mi actual empresa
 - 🤖 **IA & Seguridad** — Explorando cómo la IA está transformando la ciberseguridad
 - 📖 **Documentando mi progreso** — Cada lab resuelto se convierte en un writeup
 
