@@ -28,8 +28,20 @@ I document everything I learn: techniques, tools, labs, and the reasoning behind
 
 ## 📚 What I'm studying
 
-`SQLi` · `XSS` · `CSRF` · `Authentication` · `JWT` · `OAuth`  
-`SSRF` · `XXE` · `SSTI` · `Broken Access Control`
+`Android Fundamentals`
+`Android Application Static Analysis`
+`Android Application Dynamic Analysis`
+`Android Application Malware Analysis`
+`Android Penetration Testing Automation`
+`Android Forensics`
+`Android Attacks`
+
+---
+
+`Reconnaissance and Static Analysis`
+`Threat Modeling`
+`Mobile Malware Analysis`
+`Dynamic Testing`
 
 ---
 
@@ -73,8 +85,20 @@ detrás de cada ataque.
 
 ## 📚 Qué estoy estudiando
 
-`SQLi` · `XSS` · `CSRF` · `Autenticación` · `JWT` · `OAuth`  
-`SSRF` · `XXE` · `SSTI` · `Broken Access Control`
+`Fundamentos de Android`
+`Análisis estático de aplicaciones Android`
+`Análisis dinámico de aplicaciones Android`
+`Análisis de malware en aplicaciones Android`
+`Automatización de pruebas de penetración en Android`
+`Análisis forense de Android`
+`Ataques a Android`
+
+---
+
+`Reconocimiento y análisis estático`
+`Modelización de amenazas`
+`Análisis de malware móvil`
+`Pruebas dinámicas`
 
 ---
 
