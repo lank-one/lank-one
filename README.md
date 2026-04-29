@@ -57,7 +57,8 @@ I document everything I learn: techniques, tools, labs, and the reasoning behind
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanmartinalonso/)
 [![GitBook](https://img.shields.io/badge/GitBook-3884FF?style=flat&logo=gitbook&logoColor=white)](https://l4nk0n3.gitbook.io/whoami-l4nk0n3)
-
+[![Cyberr](https://cyberr.ai/u/alanmartinalonso)]
+[![HackTheBox](https://profile.hackthebox.com/profile/019dd3de-7d83-71cc-ba23-dd4a8b3d9f7b)]
 ---
 
 ---
@@ -106,3 +107,5 @@ detrás de cada ataque.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanmartinalonso/)
 [![GitBook](https://img.shields.io/badge/GitBook-3884FF?style=flat&logo=gitbook&logoColor=white)](https://l4nk0n3.gitbook.io/whoami-l4nk0n3)
+[![Cyberr](https://cyberr.ai/u/alanmartinalonso)]
+[![HackTheBox](https://profile.hackthebox.com/profile/019dd3de-7d83-71cc-ba23-dd4a8b3d9f7b)]
